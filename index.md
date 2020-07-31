@@ -3,6 +3,10 @@
 #### Discussing the biggest stories from the world's busiest region
 
 
+[Listen to the podcast](http://asiamatters.buzzsprout.com/)
+
+[Follow us on Twitter](https://twitter.com/asiamatterspod?lang=en)
+
 
 
 
