@@ -10,5 +10,5 @@
 
 <a href="https://twitter.com/AsiaMattersPod?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @AsiaMattersPod</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 <a href="https://podcasts.apple.com/us/podcast/asia-matters/id1487381702?mt=2&app=podcast" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/en-us/badge-lrg.svg?releaseDate=2020-07-26T00:00:00Z&kind=podcast&bubble=podcasts) no-repeat;width:165px;height:40px;"></a>
-<iframe src="https://open.spotify.com/follow/1/?uri=false&size=basic&theme=light" width="200" height="25" scrolling="no" frameborder="0" style="border:none; overflow:hidden;" allowtransparency="true"></iframe>
+
 
