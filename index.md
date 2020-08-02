@@ -1,7 +1,3 @@
-# Asia Matters Podcast
-
-#### Discussing the biggest stories from the world's busiest region
-
 Listen to our lastest episode here
 
 <iframe src="https://open.spotify.com/embed-podcast/show/082TzXLKRDY5ZbW0KRlalC" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
