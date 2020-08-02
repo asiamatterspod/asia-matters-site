@@ -1,1 +1,7 @@
 theme: jekyll-theme-minimal
+title: Asia Matters Podcast
+description: Asia Matters Podcast website.
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
