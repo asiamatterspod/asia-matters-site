@@ -36,10 +36,10 @@ body {
 
 <div class="topnav">
   <a class="active" href="#home">Home</a>
-  <a href="#About">About</a>
-  <a href="Episodes">Episodes</a>
-  <a href="#Contact Us">Contact Us</a>
-  <a href="Donate">Donate</a>
+  <a href="#About">about</a>
+  <a href="Episodes">episodes</a>
+  <a href="#Contact Us">contact</a>
+  <a href="Donate">donate</a>
 </div>
 
 </body>
