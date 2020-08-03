@@ -5,3 +5,6 @@ description: Discussing the biggest stories from the world's busiest region
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+
+github:
+  is_project_page: false
