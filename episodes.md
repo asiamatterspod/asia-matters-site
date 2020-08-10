@@ -97,3 +97,6 @@ ____________________________________________________________________________
 
 The leaders of South Korea and Japan recently held talks for the first time in over a year; their aim, to resolve a long-running trade dispute. Taking this other trade... [more](/episode-1)
 
+
+<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-96e6b0b5-e3c6-4bfc-8d1d-4537b56d8af1"></div>
