@@ -12,18 +12,6 @@ layout: default
     allowtransparency="true" 
     allow="encrypted-media"></iframe>
 
-
-<div class="center">
-    <a 
-        class="twitter-timeline" 
-        data-width="500" 
-        data-height="400" 
-        data-theme="light" 
-        href="https://twitter.com/AsiaMattersPod?ref_src=twsrc%5Etfw">Tweets by AsiaMattersPod</a> 
-    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
-
-
 ## Follow our podcast
 
 <script src="https://apps.elfsight.com/p/platform.js" defer></script>
