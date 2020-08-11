@@ -4,13 +4,7 @@ layout: default
 
 # Listen to our latest episode here:
 
-<iframe 
-    src="https://open.spotify.com/embed-podcast/show/082TzXLKRDY5ZbW0KRlalC" 
-    width="100%" 
-    height="232" 
-    frameborder="0"
-    allowtransparency="true" 
-    allow="encrypted-media"></iframe>
+<div id='buzzsprout-large-player-699187'></div><script type='text/javascript' charset='utf-8' src='https://www.buzzsprout.com/699187.js?container_id=buzzsprout-large-player-699187&player=large'></script>
 
 ## Follow our podcast
 
