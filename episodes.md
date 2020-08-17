@@ -1,5 +1,9 @@
 # Episodes
 
+## Episode 17: Japan's Foreign Policy: The Art of Persuasion?
+
+This episode, in a collaboration with the Daiwa Anglo-Japanese Foundation, we turn our attention to Japan - specifically, its foreign policy. Against a backdrop of rising... [more](/episode-17)
+
 ____________________________________________________________________________
   
 ## Episode 16: Coronavirus and Racism: Asian-Americans in the Crossfire
