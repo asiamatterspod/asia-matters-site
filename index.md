@@ -51,10 +51,14 @@ layout: default
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
 
-
 <center>
   <h2>Follow our podcast</h2>
 </center>
 
 <script src="https://apps.elfsight.com/p/platform.js" defer></script>
 <div class="elfsight-app-db0cc838-7705-44ee-9567-43b04c96dbbc"></div>
+
+<a href="http://eepurl.com/hbboyz"> 
+  <img src="http://www.YOURWEBSITE.com/YOURGRAPHIC.png"> 
+ </a> 
+
