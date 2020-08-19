@@ -55,6 +55,11 @@ layout: default
   <h2>Follow our podcast</h2>
 </center>
 
-<script src="https://apps.elfsight.com/p/platform.js" defer></script>
-<div class="elfsight-app-db0cc838-7705-44ee-9567-43b04c96dbbc"></div>
-
+<div class="social-media-links">
+    <a href="https://twitter.com/asiamatterspod" class="social-media-link">
+        <img src="{{site.url}}/assets/img/twitter.svg" alt="Twitter" height="40" />
+    </a>
+    <a href="https://twitter.com/asiamatterspod" class="social-media-link">
+        <img src="{{site.url}}/assets/img/twitter.svg" alt="Twitter" height="40" />
+    </a>
+</div>

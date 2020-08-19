@@ -11,33 +11,34 @@
 .page-header {
     background-image: url("https://wallpapercave.com/wp/0oNavSv.jpg");
     background-repeat: no-repeat;
-    background-size:1275px 525px;  
+    background-size:1275px 525px;
 }
 
 @media screen and (min-width: 1300px) {
     .page-header {
-        background-image: url("https://wallpapercave.com/wp/0oNavSv.jpg");
-        background-repeat: no-repeat;
         background-size:1350px 530px;
     }
 }
 
 @media screen and (min-width: 1500px) {
     .page-header {
-        background-image: url("https://wallpapercave.com/wp/0oNavSv.jpg");
-        background-repeat: no-repeat;
         background-size:1550px 535px;
     }
 }
 
 @media screen and (min-width: 1900px) {
     .page-header {
-       background-image: url("https://wallpapercave.com/wp/0oNavSv.jpg");
-       background-repeat: no-repeat;
        background-size:1950px 550px;
     }
 }
 
+.social-media-links {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
 
-
-
+.social-media-link {
+    margin: 0 10px; /* Adjust horizontal spacing here */
+}
