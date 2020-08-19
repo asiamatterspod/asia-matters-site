@@ -62,4 +62,14 @@ layout: default
     <a href="https://podcasts.apple.com/au/podcast/asia-matters/id1487381702" class="social-media-link">
         <img src="{{site.url}}/assets/img/apple.svg" alt="Apple" height="40" />
     </a>
+    <a href="https://open.spotify.com/show/082TzXLKRDY5ZbW0KRlalC" class="social-media-link">
+        <img src="{{site.url}}/assets/img/spotify.svg" alt="Spotify" height="40" />
+    </a>
+    <a href="https://overcast.fm/itunes1487381702/asia-matters" class="social-media-link">
+        <img src="{{site.url}}/assets/img/overcast.svg" alt="Overcast" height="40" />
+    </a>
+    <a href="https://www.stitcher.com/podcast/asia-matters" class="social-media-link">
+        <img src="{{site.url}}/assets/img/stitcher.svg" alt="Stitcher" height="40" />
+    </a>
+	
 </div>
