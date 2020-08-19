@@ -71,5 +71,8 @@ layout: default
     <a href="https://www.stitcher.com/podcast/asia-matters" class="social-media-link">
         <img src="{{site.url}}/assets/img/stitcher.svg" alt="Stitcher" height="40" />
     </a>
+    <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS82OTkxODcucnNz">
+        <img src="{{site.url}}/assets/img/google.svg" alt="Google" height="40" />
+    </a>
 	
 </div>
