@@ -2,6 +2,25 @@
 <div class="elfsight-app-c0242286-be41-4158-a875-180c47c3b573"></div>
  
   
-
-<script src="https://apps.elfsight.com/p/platform.js" defer></script>
-<div class="elfsight-app-db0cc838-7705-44ee-9567-43b04c96dbbc"></div>
+<div class="social-media-links">
+    <a href="https://twitter.com/asiamatterspod" class="social-media-link">
+        <img src="{{site.url}}/assets/img/twitter.svg" alt="Twitter" height="40" />
+    </a>
+    <a href="https://podcasts.apple.com/au/podcast/asia-matters/id1487381702" class="social-media-link">
+        <img src="{{site.url}}/assets/img/apple.svg" alt="Apple Podcasts" height="40" />
+    </a>
+    <a href="https://open.spotify.com/show/082TzXLKRDY5ZbW0KRlalC" class="social-media-link">
+        <img src="{{site.url}}/assets/img/spotify.svg" alt="Spotify" height="40" />
+    </a>
+    <a href="https://overcast.fm/itunes1487381702/asia-matters" class="social-media-link">
+        <img src="{{site.url}}/assets/img/overcast.svg" alt="Overcast" height="40" />
+    </a>
+    <a href="https://www.stitcher.com/podcast/asia-matters" class="social-media-link">
+        <img src="{{site.url}}/assets/img/stitcher.svg" alt="Stitcher" height="40" />
+    </a>
+    <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS82OTkxODcucnNz">
+        <img src="{{site.url}}/assets/img/google.svg" alt="Google Podcasts" height="40" />
+    </a>
+    <a href="https://player.fm/series/asia-matters">
+        <img src="{{site.url}}/assets/img/player-fm.svg" alt="Player FM" height="40" />
+    </a>
