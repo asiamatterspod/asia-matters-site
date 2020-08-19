@@ -60,6 +60,6 @@ layout: default
         <img src="{{site.url}}/assets/img/twitter.svg" alt="Twitter" height="40" />
     </a>
     <a href="https://podcasts.apple.com/au/podcast/asia-matters/id1487381702" class="social-media-link">
-        <img src="{{site.url}}/assets/img/twitter.svg" alt="Twitter" height="40" />
+        <img src="{{site.url}}/assets/img/apple.svg" alt="Apple" height="40" />
     </a>
 </div>
