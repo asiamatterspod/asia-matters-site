@@ -60,7 +60,7 @@ layout: default
         <img src="{{site.url}}/assets/img/twitter.svg" alt="Twitter" height="40" />
     </a>
     <a href="https://podcasts.apple.com/au/podcast/asia-matters/id1487381702" class="social-media-link">
-        <img src="{{site.url}}/assets/img/apple.svg" alt="Apple" height="40" />
+        <img src="{{site.url}}/assets/img/apple.svg" alt="Apple Podcasts" height="40" />
     </a>
     <a href="https://open.spotify.com/show/082TzXLKRDY5ZbW0KRlalC" class="social-media-link">
         <img src="{{site.url}}/assets/img/spotify.svg" alt="Spotify" height="40" />
@@ -72,7 +72,9 @@ layout: default
         <img src="{{site.url}}/assets/img/stitcher.svg" alt="Stitcher" height="40" />
     </a>
     <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS82OTkxODcucnNz">
-        <img src="{{site.url}}/assets/img/google.svg" alt="Google" height="40" />
+        <img src="{{site.url}}/assets/img/google.svg" alt="Google Podcasts" height="40" />
     </a>
-	
+    <a href="https://player.fm/series/asia-matters">
+        <img src="{{site.url}}/assets/img/player-fm.svg" alt="Player FM" height="40" />
+    </a>
 </div>
