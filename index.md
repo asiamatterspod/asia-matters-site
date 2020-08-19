@@ -58,7 +58,3 @@ layout: default
 <script src="https://apps.elfsight.com/p/platform.js" defer></script>
 <div class="elfsight-app-db0cc838-7705-44ee-9567-43b04c96dbbc"></div>
 
-<a href="http://eepurl.com/hbboyz"> 
-  <img src="http://www.YOURWEBSITE.com/YOURGRAPHIC.png"> 
- </a> 
-
