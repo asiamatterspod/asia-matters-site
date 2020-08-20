@@ -20,6 +20,12 @@
     }
 }
 
+@media screen and (min-width: 1400px) {
+    .page-header {
+        background-size:1450px 530px;
+    }
+}
+
 @media screen and (min-width: 1500px) {
     .page-header {
         background-size:1550px 535px;
