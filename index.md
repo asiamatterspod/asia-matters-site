@@ -18,7 +18,7 @@ layout: default
 <div id="mc_embed_signup">
 <form action="https://asiamatterspod.us17.list-manage.com/subscribe/post?u=9334f61df3eb13da1f746e458&amp;id=5a6b1e8bde" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	
+
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
@@ -69,12 +69,12 @@ layout: default
         <img src="{{site.url}}/assets/img/overcast.svg" alt="Overcast" height="40" />
     </a>
     <a href="https://www.stitcher.com/podcast/asia-matters" class="social-media-link">
-        <img src="{{site.url}}/assets/img/stitcher.svg" alt="Stitcher" height="40" />
+        <img src="{{site.url}}/assets/img/stitcher.png" alt="Stitcher" height="40" />
     </a>
-    <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS82OTkxODcucnNz">
+    <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS82OTkxODcucnNz" class="social-media-link">
         <img src="{{site.url}}/assets/img/google.svg" alt="Google Podcasts" height="40" />
     </a>
-    <a href="https://player.fm/series/asia-matters">
+    <a href="https://player.fm/series/asia-matters" class="social-media-link">
         <img src="{{site.url}}/assets/img/player-fm.svg" alt="Player FM" height="40" />
     </a>
 </div>
