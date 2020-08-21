@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Episodes
 
 ## [Episode 17: Japan's Foreign Policy: The Art of Persuasion?](/episode-17)
@@ -7,7 +11,7 @@ Featured Guests: Akio Takahara, Yuka Kobayashi
 This episode, in a collaboration with the Daiwa Anglo-Japanese Foundation, we turn our attention to Japan - specifically, its foreign policy. Against a backdrop of rising... [more](/episode-17)
 
 ____________________________________________________________________________
-  
+
 ## [Episode 16: Coronavirus and Racism: Asian-Americans in the Crossfire](/episode-16)
 
 Featured Guests: Christine Yano, Jennifer Pan
@@ -15,7 +19,7 @@ Featured Guests: Christine Yano, Jennifer Pan
 The world is still very much in the grip of the coronavirus pandemic - but the blame game has already begun. China, where the virus was first reported last December... [more](/episode-16)
 
 ____________________________________________________________________________
-  
+
 ## [Episode 15: Do Middle Powers Have a China Dilemma?](/episode-15)
 
 Featured Guests: Kerry Brown, Matthew Henderson
