@@ -14,6 +14,10 @@
     background-size:1275px 525px;
 }
 
+.page-title:link, .page-title:visited {
+  color: white;
+}
+
 @media screen and (min-width: 1300px) {
     .page-header {
         background-size:1350px 530px;
