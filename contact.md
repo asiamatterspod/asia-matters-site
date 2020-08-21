@@ -1,7 +1,7 @@
 <script src="https://apps.elfsight.com/p/platform.js" defer></script>
 <div class="elfsight-app-c0242286-be41-4158-a875-180c47c3b573"></div>
- 
-  
+
+
 <div class="social-media-links">
     <a href="https://twitter.com/asiamatterspod" class="social-media-link">
         <img src="{{site.url}}/assets/img/twitter.svg" alt="Twitter" height="40" />
@@ -16,11 +16,12 @@
         <img src="{{site.url}}/assets/img/overcast.svg" alt="Overcast" height="40" />
     </a>
     <a href="https://www.stitcher.com/podcast/asia-matters" class="social-media-link">
-        <img src="{{site.url}}/assets/img/stitcher.svg" alt="Stitcher" height="40" />
+        <img src="{{site.url}}/assets/img/stitcher.png" alt="Stitcher" height="40" />
     </a>
-    <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS82OTkxODcucnNz">
+    <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS82OTkxODcucnNz" class="social-media-link">
         <img src="{{site.url}}/assets/img/google.svg" alt="Google Podcasts" height="40" />
     </a>
-    <a href="https://player.fm/series/asia-matters">
+    <a href="https://player.fm/series/asia-matters" class="social-media-link">
         <img src="{{site.url}}/assets/img/player-fm.svg" alt="Player FM" height="40" />
     </a>
+</div>
