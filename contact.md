@@ -28,4 +28,7 @@ layout: default
     <a href="https://player.fm/series/asia-matters" class="social-media-link">
         <img src="{{site.url}}/assets/img/player-fm.svg" alt="Player FM" height="40" />
     </a>
+    <a href="https://www.linkedin.com/company/asiamatterspod/" class="social-media-link">
+        <img src="{{site.url}}/assets/img/linkedin.png" alt="Linkedin" height="40" />
+    </a>
 </div>
