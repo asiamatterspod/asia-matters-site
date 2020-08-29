@@ -9,3 +9,6 @@ plugins:
 
 github:
   is_project_page: false
+
+# Google Analytics
+google_analytics: UA-176749312-1
