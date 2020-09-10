@@ -4,6 +4,12 @@ layout: default
 
 # Episodes
 
+## [Episode 19: South Asia's Dual Crises: Coronavirus and Climate Change](/episode-19)
+
+Featured Guests: Mushfiq Mobarak, Yamini Aiyar
+
+South Asian countries are facing a double whammy - the effects of the global pandemic and an increasingly urgent battle against pollution and the effects of climate change... [more](/episode-19)
+
 ## [Episode 18: Summer of China: Three Books to Read](/episode-18)
 
 Featured Guests: Lingling Wei, Michael Schuman, Tom Orlik
