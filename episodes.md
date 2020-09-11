@@ -10,11 +10,15 @@ Featured Guests: Mushfiq Mobarak, Yamini Aiyar
 
 South Asian countries are facing a double whammy - the effects of the global pandemic and an increasingly urgent battle against pollution and the effects of climate change... [more](/episode-19)
 
+____________________________________________________________________________
+
 ## [Episode 18: Summer of China: Three Books to Read](/episode-18)
 
 Featured Guests: Lingling Wei, Michael Schuman, Tom Orlik
 
 This episode, we present - the inaugural Asia Matters Book Club episode. China has dominated the headlines this summer - and if you're looking for a good book to help you... [more](/episode-18)
+
+____________________________________________________________________________
 
 ## [Episode 17: Japan's Foreign Policy: The Art of Persuasion?](/episode-17)
 
