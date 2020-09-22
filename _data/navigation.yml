@@ -1,11 +1,11 @@
-- title: Home
+- title: Episodes
   url: /
 
 - title: About
   url: /about
 
-- title: Episodes
-  url: /episodes
+- title: Subscribe
+  url: /subscribe
 
 - title: Contact Us
   url: /contact
