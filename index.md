@@ -1,6 +1,21 @@
 ---
 layout: default
 ---
+## [20 | India in the COVID-19 Era](/episode-20)
+
+September 28, 2020
+
+Featured Guest: Pratap Mehta
+<br>
+Featured Host: Yuka Kobayashi
+
+In the second of our special editions recorded at the Association for Asian Studies' annual conference, we turn our focus to India. Our guest is Pratap Mehta [(@pbmehta)](https://twitter.com/pbmehta), one of the country's... [more](/episode-20)
+
+<div id="buzzsprout-player-5637895"></div>
+<script src="https://www.buzzsprout.com/699187/5637895-india-in-the-covid-19-era.js?container_id=buzzsprout-player-5637895&player=small" type="text/javascript" charset="utf-8"></script>
+<br>
+
+____________________________________________________________________________
 
 ## [19 | South Asia's Dual Crises: Coronavirus and Climate Change](/episode-19)
 
