@@ -5,7 +5,7 @@ layout: default
 
 September 28, 2020
 
-Featured Guest: Pratap Mehta
+Featured Guest: Pratap Bhanu Mehta
 <br>
 Featured Host: Yuka Kobayashi
 
