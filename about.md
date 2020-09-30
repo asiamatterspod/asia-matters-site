@@ -33,3 +33,5 @@ Vincent Ni is the co-founder of Asia Matters podcast. He also reports for the BB
 ## Andrew Peaple
 
 Andrew Peaple has long experience of living and working in Asia. His 16 years as a reporter, editor and columnist with The Wall Street Journal, included stints in Beijing from 2007 to 2010 and in Hong Kong from 2015 to 2019. For much of that time he wrote and edited the paper’s Heard on the Street column. He has appeared regularly on radio and TV, contributing to BBC Radio, CNBC and Sky News. Before joining the Journal he worked in Tokyo from 1999 to 2003; he also spent a year teaching English in Osaka from 1995-6. Andrew co-founded Asia Matters in autumn 2019.
+
+## Rebecca Bailey
