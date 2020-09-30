@@ -3,15 +3,19 @@ $large-breakpoint: 64em;
 $medium-breakpoint: 42em;
 
 // Headers
-$header-heading-color: #fff;
-$header-bg-color: #D7CFC0;
-$header-bg-color-secondary: #D25E50;
+$header-heading-color: #FFFF;
+$header-bg-color: #FFFF;
+$header-bg-color-secondary: #FFFF;
+
+/* #D25E50 #D7CFC0*/
 
 // Text
 $section-headings-color: black;
 $body-text-color: #606c71;
-$body-link-color: #1e6bb8;
+$body-link-color: #D25E50;
 $blockquote-text-color: #819198;
+
+/*#1e6bb8*/
 
 // Code
 $code-bg-color: #f3f6fa;

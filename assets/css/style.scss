@@ -8,17 +8,23 @@
     text-align: center;
 }
 
-.page-header {
-    background-image: url("https://wallpapercave.com/wp/0oNavSv.jpg");
+/*.page-header {
+    background-image: url("https://user-images.githubusercontent.com/67763587/94709848-03e02480-02fb-11eb-9c1f-36d2ec264206.png");
     background-repeat: no-repeat;
-    background-size:1275px 525px;
-}
+    background-size:100% 100%;
+}/*
+
+/*1275px 525px*/
 
 .page-title:link, .page-title:visited {
-  color: white;
+  color: black;
 }
 
-@media screen and (min-width: 1300px) {
+.project-tagline {
+  color: black;
+}
+
+/*@media screen and (min-width: 1300px) {
     .page-header {
         background-size:1350px 530px;
     }
@@ -40,7 +46,7 @@
     .page-header {
        background-size:1950px 550px;
     }
-}
+} */
 
 .social-media-links {
     display: flex;
@@ -54,8 +60,10 @@
 }
 
 .navigation {
-  color:rgba(255, 255, 255, 1);
+  color:rgba(0, 0, 0, 1);
 }
+
+/*rgba(255, 255, 255, 1)*/
 
 .donate-button {
   background:#FFCC00;
