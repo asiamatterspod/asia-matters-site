@@ -8,7 +8,7 @@ Asia Matters is a podcast that goes beyond the headlines featuring experts from 
 
 # The Creators
 
-## Vincent Ni
+## Vincent Ni [(@nivincent)](https://twitter.com/nivincent)
 
 <html>
 <head>
