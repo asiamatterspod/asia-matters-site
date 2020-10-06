@@ -4,7 +4,7 @@ layout: default
 
 # About
 
-Asia Matters is a podcast that goes beyond the headlines featuring experts from around the globe to help explain what's really going on in Asia today.
+Asia Matters is a podcast that features experts from around the globe to help explain what’s really going on in the region's politics, business and culture today.
 
 # The Creators
 
@@ -30,8 +30,8 @@ Vincent Ni is the co-founder of Asia Matters podcast. Over the past decade, he h
 <br>
 
 
-## Andrew Peaple
+## Andrew Peaple [(@andypeaps)](https://twitter.com/andypeaps)
 
-Andrew Peaple has long experience of living and working in Asia. His 16 years as a reporter, editor and columnist with The Wall Street Journal, included stints in Beijing from 2007 to 2010 and in Hong Kong from 2015 to 2019. For much of that time he wrote and edited the paper’s Heard on the Street column. He has appeared regularly on radio and TV, contributing to BBC Radio, CNBC and Sky News. Before joining the Journal he worked in Tokyo from 1999 to 2003; he also spent a year teaching English in Osaka from 1995-6. Andrew co-founded Asia Matters in autumn 2019.
+Andrew Peaple has long experience of living and working in Asia. His 16 years as a reporter, editor and columnist with The Wall Street Journal included stints in Beijing from 2007 to 2010 and in Hong Kong from 2015 to 2019. For much of that time he wrote and edited the paper’s Heard on the Street column. He has appeared regularly on radio and TV, contributing to BBC Radio, CNBC and Sky News. Before joining the Journal he worked in Tokyo from 1999 to 2003; he also spent a year teaching English in Osaka from 1995-6. Andrew co-founded Asia Matters in autumn 2019.
 
 ## Rebecca Bailey
