@@ -7,12 +7,13 @@ October 8, 2020
 
 Featured Guests: Phred Dvorak, Steve Kaplan
 
-This week's episode is a deep dive on a company that's transforming not just Asia, but arguably the entire global tech sector - Japan's Softbank. Even if you've never heard of Softbank, you'll have heard of the companies... [more](/episode-21)
+This week's episode is a deep dive on a company that's transforming not just Asia, but arguably the entire global tech sector - Japan's SoftBank. Even if you've never heard of SoftBank... [more](/episode-21)
 
 <div id="buzzsprout-player-5784994"></div>
 <script src="https://www.buzzsprout.com/699187/5784994-softbank-asia-s-most-influential-tech-company.js?container_id=buzzsprout-player-5784994&player=small" type="text/javascript" charset="utf-8"></script>
 <br>
-____________________________________________________________________________
+
+_______________________________________________________________________________________________
 
 ## [20 | India in the COVID-19 Era](/episode-20)
 
