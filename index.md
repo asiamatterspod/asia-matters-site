@@ -293,7 +293,3 @@ The leaders of South Korea and Japan recently held talks for the first time in o
 
 <div id="buzzsprout-player-1984201"></div>
 <script src="https://www.buzzsprout.com/699187/1984201-japan-vs-south-korea-asia-s-other-trade-war.js?container_id=buzzsprout-player-1984201&player=small" type="text/javascript" charset="utf-8"></script>
-
-
-<script src="https://apps.elfsight.com/p/platform.js" defer></script>
-<div class="elfsight-app-96e6b0b5-e3c6-4bfc-8d1d-4537b56d8af1"></div>

@@ -8,14 +8,6 @@
     text-align: center;
 }
 
-/*.page-header {
-    background-image: url("https://user-images.githubusercontent.com/67763587/94709848-03e02480-02fb-11eb-9c1f-36d2ec264206.png");
-    background-repeat: no-repeat;
-    background-size:100% 100%;
-}/*
-
-/*1275px 525px*/
-
 .page-title:link, .page-title:visited {
   color: black;
 }
@@ -23,6 +15,40 @@
 .project-tagline {
   color: black;
 }
+
+.social-media-links {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.social-media-link {
+    margin: 0 10px; /* Adjust horizontal spacing here */
+}
+
+.navigation {
+  color:rgba(0, 0, 0, 1);
+}
+
+.donate-button {
+  background:#FFCC00;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  width:250px;
+  height:48px;
+  margin:0 auto;
+  border-radius: 6px;
+}
+
+/*.page-header {
+    background-image: url("https://user-images.githubusercontent.com/67763587/94709848-03e02480-02fb-11eb-9c1f-36d2ec264206.png");
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}/*
+
+/*1275px 525px*/
 
 /*@media screen and (min-width: 1300px) {
     .page-header {
@@ -48,30 +74,4 @@
     }
 } */
 
-.social-media-links {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-}
-
-.social-media-link {
-    margin: 0 10px; /* Adjust horizontal spacing here */
-}
-
-.navigation {
-  color:rgba(0, 0, 0, 1);
-}
-
 /*rgba(255, 255, 255, 1)*/
-
-.donate-button {
-  background:#FFCC00;
-  display:flex;
-  align-items: center;
-  justify-content: center;
-  width:250px;
-  height:48px;
-  margin:0 auto;
-  border-radius: 6px;
-}
