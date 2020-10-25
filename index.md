@@ -7,7 +7,7 @@ October 26, 2020
 
 Featured Guests: Ben Bland, Dewi Fortuna Anwar
 
-When Joko Widodo, widely known as Jokowi, became president of Indonesia in 2012, it completed a stunning rise for a political outsider who had spent much of his previous life... [more](/episode-22)
+When Joko Widodo, widely known as Jokowi, became president of Indonesia in 2014, it completed a stunning rise for a political outsider who had spent much of his previous life... [more](/episode-22)
 
 
 <div id="buzzsprout-player-6054442"></div>
