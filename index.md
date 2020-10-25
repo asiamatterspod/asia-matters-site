@@ -1,6 +1,21 @@
 ---
 layout: default
 ---
+## [22 | Indonesia's Leader of Contradictions](/episode-22)
+
+October 26, 2020
+
+Featured Guests: Ben Bland, Dewi Fortuna Anwar
+
+When Joko Widodo, widely known as Jokowi, became president of Indonesia in 2012, it completed a stunning rise for a political outsider who had spent much of his previous life... [more](/episode-22)
+
+
+<div id="buzzsprout-player-6054442"></div>
+<script src="https://www.buzzsprout.com/699187/6054442-indonesia-s-leader-of-contradictions.js?container_id=buzzsprout-player-6054442&player=small" type="text/javascript" charset="utf-8"></script>
+<br>
+
+_____________________________________________________________________________________________
+
 ## [21 | SoftBank: Asia's Most Influential Tech Company](/episode-21)
 
 October 8, 2020
