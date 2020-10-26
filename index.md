@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## [22 | Indonesia's Leader of Contradictions](/episode-22)
+## [22 | Joko Widodo: Indonesia's Leader of Contradictions](/episode-22)
 
 October 26, 2020
 
