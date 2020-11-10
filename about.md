@@ -20,3 +20,10 @@ Asia Matters is a podcast that features experts from around the globe to help ex
 Andrew Peaple has long experience of living and working in Asia. His 16 years as a reporter, editor and columnist with The Wall Street Journal included stints in Beijing from 2007 to 2010 and in Hong Kong from 2015 to 2019. For much of that time he wrote and edited the paper’s Heard on the Street column. He has appeared regularly on radio and TV, contributing to BBC Radio, CNBC and Sky News. Before joining the Journal he worked in Tokyo from 1999 to 2003; he also spent a year teaching English in Osaka from 1995-6. Andrew co-founded Asia Matters in autumn 2019.
 
 ## Rebecca Bailey [(@BeiJia_B)](https://twitter.com/BeiJia_B)
+
+<img src="https://user-images.githubusercontent.com/67763587/98584348-9bca1a00-227a-11eb-9402-25893fbef8f7.png"
+  style="width:150px;height:200px;margin-right:15px;"
+  align="left" />
+  <p>Rebecca is a news editor on AFP's Asia-Pacific desk. Before this she worked for the BBC for seven years, and edited one of BBC World's flagship TV programmes, Outside Source. She read Chinese Studies at university and so has always maintained a deep interest in the wider Asia region. She's spent time working in Singapore and Beijing, and is now living in Hong Kong. </p>
+
+<br>
