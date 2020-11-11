@@ -8,6 +8,10 @@
     text-align: center;
 }
 
+.page-header {
+  padding: 30px;
+}
+
 .page-title:link, .page-title:visited {
   color: black;
 }
@@ -31,6 +35,10 @@
   color:rgba(0, 0, 0, 1);
 }
 
+.navigation:hover {
+  color:rgba(169, 169, 169, 1);
+}
+
 .donate-button {
   background:#FFCC00;
   display:flex;
@@ -41,37 +49,3 @@
   margin:0 auto;
   border-radius: 6px;
 }
-
-/*.page-header {
-    background-image: url("https://user-images.githubusercontent.com/67763587/94709848-03e02480-02fb-11eb-9c1f-36d2ec264206.png");
-    background-repeat: no-repeat;
-    background-size:100% 100%;
-}/*
-
-/*1275px 525px*/
-
-/*@media screen and (min-width: 1300px) {
-    .page-header {
-        background-size:1350px 530px;
-    }
-}
-
-@media screen and (min-width: 1400px) {
-    .page-header {
-        background-size:1450px 530px;
-    }
-}
-
-@media screen and (min-width: 1500px) {
-    .page-header {
-        background-size:1550px 535px;
-    }
-}
-
-@media screen and (min-width: 1900px) {
-    .page-header {
-       background-size:1950px 550px;
-    }
-} */
-
-/*rgba(255, 255, 255, 1)*/

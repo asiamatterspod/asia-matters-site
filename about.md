@@ -24,7 +24,7 @@ Andrew Peaple has long experience of living and working in Asia. His 16 years as
 <img src="https://user-images.githubusercontent.com/67763587/98584348-9bca1a00-227a-11eb-9402-25893fbef8f7.png"
   style="width:150px;height:200px;margin-right:15px;"
   align="left" />
-  <p>Rebecca joined the Asia Matters team as the founding producer. She currently works as a news editor on AFP's Asia-Pacific desk in Hong Kong. Before this she was at the BBC for seven years, and edited one of BBC World's flagship TV programmes, Outside Source. She read Chinese Studies at university and has always maintained a deep interest in the wider Asia region, having spent time working in Singapore and Beijing. 
+  <p>Rebecca Bailey joined the Asia Matters team as the founding producer. She currently works as a news editor on AFP's Asia-Pacific desk in Hong Kong. Before this she was at the BBC for seven years, and edited one of BBC World's flagship TV programmes, Outside Source. She read Chinese Studies at university and has always maintained a deep interest in the wider Asia region, having spent time working in Singapore and Beijing. 
 </p>
 
 <br>
