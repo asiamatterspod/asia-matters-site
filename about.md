@@ -13,7 +13,7 @@ Asia Matters is a podcast that features experts from around the globe to help ex
 <!-- img src="https://user-images.githubusercontent.com/67763587/94476153-ed17c180-0184-11eb-88b5-9baf0695faf9.png"
   style="width:150px;height:200px;margin-right:15px;"
   align="left" /-->
-  <p>Vincent Ni is the co-founder of Asia Matters podcast. Over the past decade, he has reported from Asia, the Middle East, Europe, and North America. <!-- He regularly appears on the BBC's domestic and international TV, radio and digital platforms as an analyst. He has also worked on Newsnight and Newshour, two of the BBC’s flagship current affairs programs, and filed for From Our Own Correspondent on BBC Radio 4.--> He has lectured at Yale, London School of Economics, as well as Yale-NUS in Singapore.</p>
+  <p>Vincent Ni is the co-founder and co-host of Asia Matters podcast. He's a 2018 World Fellow at Yale University in the United States. As a journalist, over the past 15 years, he has reported from Asia, the Middle East, Europe, and North America. He is a graduate of Oxford University in England, and has lectured at Yale, London School of Economics, as well as Yale-NUS in Singapore.</p>
 
 ## Andrew Peaple [(@andypeaps)](https://twitter.com/andypeaps)
 
@@ -61,9 +61,11 @@ Andrew Peaple has long experience of living and working in Asia. His 16 years as
       </a>
   </div>
   <p>
-    Subscribe to our other podcast platforms: Amazon Music, iHeart Radio, Pandora, TuneIn, Podchaser, Deezer, Listen Notes, Podcast Index, Castro, Castbox, and Pocket Casts
+    <center>
+      Subscribe to our other platforms: Amazon Music, iHeart Radio, Pandora, TuneIn, Podchaser, Deezer, Listen Notes, Podcast Index, Castro, Castbox, and Pocket Casts
+    </center>
   </p>
-  <br>
+
       <!-- Begin Mailchimp Signup Form -->
   <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
   <style type="text/css">
@@ -90,6 +92,10 @@ Andrew Peaple has long experience of living and working in Asia. His 16 years as
   </div>
   <!--End mc_embed_signup-->
   <p>
-    You can unsubscribe at any time by clicking the link in the footer of our emails. We use Mailchimp as our marketing platform. By clicking above to subscribe, you acknowledge that your information will be transferred to Mailchimp for processing.
+    <center>
+      <h6>
+        You can unsubscribe at any time by clicking the link in the footer of our emails. We use Mailchimp as our marketing platform. By clicking above to subscribe, you acknowledge that your information will be transferred to Mailchimp for processing.
+      </h6>
+    </center>
   </p>
 </footer>
