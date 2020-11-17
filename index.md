@@ -308,3 +308,76 @@ The leaders of South Korea and Japan recently held talks for the first time in o
 
 <div id="buzzsprout-player-1984201"></div>
 <script src="https://www.buzzsprout.com/699187/1984201-japan-vs-south-korea-asia-s-other-trade-war.js?container_id=buzzsprout-player-1984201&player=small" type="text/javascript" charset="utf-8"></script>
+
+<br>
+<footer>
+  <p>_________________________________________________________________________________________________________
+  </p>
+  <div class="social-media-links">
+      <a href="https://twitter.com/asiamatterspod" class="social-media-link">
+          <img src="{{site.url}}/assets/img/twitter.svg" alt="Twitter" height="40" />
+      </a>
+      <a href="https://podcasts.apple.com/podcast/asia-matters/id1487381702" class="social-media-link">
+          <img src="{{site.url}}/assets/img/apple.svg" alt="Apple Podcasts" height="40" />
+      </a>
+      <a href="https://open.spotify.com/show/082TzXLKRDY5ZbW0KRlalC" class="social-media-link">
+          <img src="{{site.url}}/assets/img/spotify.svg" alt="Spotify" height="40" />
+      </a>
+      <a href="https://overcast.fm/itunes1487381702/asia-matters" class="social-media-link">
+          <img src="{{site.url}}/assets/img/overcast.svg" alt="Overcast" height="40" />
+      </a>
+      <a href="https://www.stitcher.com/podcast/asia-matters" class="social-media-link">
+          <img src="{{site.url}}/assets/img/stitcher.png" alt="Stitcher" height="40" />
+      </a>
+      <a href="https://podcastaddict.com/podcast/2478676" class="social-media-link">
+          <img src="{{site.url}}/assets/img/podcast-addict.png" alt="Podcast Addict" height="40" />
+      </a>
+      <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS82OTkxODcucnNz" class="social-media-link">
+          <img src="{{site.url}}/assets/img/google.svg" alt="Google Podcasts" height="40" />
+      </a>
+      <a href="https://player.fm/series/asia-matters" class="social-media-link">
+          <img src="{{site.url}}/assets/img/player-fm.svg" alt="Player FM" height="40" />
+      </a>
+      <a href="https://www.linkedin.com/company/asiamatterspod/" class="social-media-link">
+          <img src="{{site.url}}/assets/img/linkedin.png" alt="Linkedin" height="40" />
+      </a>
+  </div>
+  <p>
+    <center>
+      Subscribe to our other platforms: <a href="https://music.amazon.com/podcasts/86874337-fcaa-497d-8d9f-5a218650ba11/Asia-Matters-Podcast">Amazon Music</a>, <a href="https://www.iheart.com/podcast/269-asia-matters-53195309/">iHeart Radio</a>, <a href="https://www.pandora.com/podcast/asia-matters-podcast/PC:37958">Pandora</a>, <a href="https://tunein.com/podcasts/News--Politics-Podcasts/Asia-Matters-Podcast-p1272140/">TuneIn</a>, <a href="https://www.podchaser.com/podcasts/asia-matters-1380712">Podchaser</a>, <a href="https://www.deezer.com/en/show/1617862">Deezer</a>, <a href="https://www.listennotes.com/podcasts/asia-matters-podcast-asia-matters-EJSFdHqUWtX/">Listen Notes</a>, <a href="https://podcastindex.org/podcast/995325">Podcast Index</a>, <a href="https://castro.fm/podcast/e884bf98-385c-4169-b1ff-de36b16737db">Castro</a>, <a href="https://castbox.fm/channel/Asia-Matters-Podcast-id2454825?country=us">Castbox</a>, <a href="https://pca.st/lrolfiqt">Pocket Casts</a>, and <a href="https://web.podfriend.com/podcast/1487381702">Podfriend</a>
+    </center>
+  </p>
+
+      <!-- Begin Mailchimp Signup Form -->
+  <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
+  <style type="text/css">
+    #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
+    /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+       We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+  </style>
+  <style type="text/css">
+    #mc-embedded-subscribe-form input[type=checkbox]{display: inline; width: auto;margin-right: 10px;}
+    #mergeRow-gdpr {margin-top: 20px;}
+    #mergeRow-gdpr fieldset label {font-weight: normal;}
+    #mc-embedded-subscribe-form .mc_fieldset{border:none;min-height: 0px;padding-bottom:0px;}
+  </style>
+  <div id="mc_embed_signup">
+  <form action="https://asiamatterspod.us17.list-manage.com/subscribe/post?u=9334f61df3eb13da1f746e458&amp;id=5a6b1e8bde" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+      <div id="mc_embed_signup_scroll">
+    <label for="mce-EMAIL">Subscribe to our mailing list</label>
+    <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Email address" required>
+      <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+      <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_9334f61df3eb13da1f746e458_5a6b1e8bde" tabindex="-1" value=""></div>
+      <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+      </div>
+  </form>
+  </div>
+  <!--End mc_embed_signup-->
+  <p>
+    <center>
+      <h6>
+        You can unsubscribe at any time by clicking the link in the footer of our emails. We use Mailchimp as our marketing platform. By clicking above to subscribe, you acknowledge that your information will be transferred to Mailchimp for processing.
+      </h6>
+    </center>
+  </p>
+</footer>
