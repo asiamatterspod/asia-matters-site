@@ -62,7 +62,7 @@ Andrew Peaple has long experience of living and working in Asia. His 16 years as
   </div>
   <p>
     <center>
-      Subscribe to our other platforms: Amazon Music, iHeart Radio, Pandora, TuneIn, Podchaser, Deezer, Listen Notes, Podcast Index, Castro, Castbox, and Pocket Casts
+      Subscribe to our other platforms: <a href="https://music.amazon.com/podcasts/86874337-fcaa-497d-8d9f-5a218650ba11/Asia-Matters-Podcast">Amazon Music</a>, <a href="https://www.iheart.com/podcast/269-asia-matters-53195309/">iHeart Radio</a>, <a href="https://www.pandora.com/podcast/asia-matters-podcast/PC:37958">Pandora</a>, <a href="https://tunein.com/podcasts/News--Politics-Podcasts/Asia-Matters-Podcast-p1272140/">TuneIn</a>, <a href="https://www.podchaser.com/podcasts/asia-matters-1380712">Podchaser</a>, <a href="https://www.deezer.com/en/show/1617862">Deezer</a>, <a href="https://www.listennotes.com/podcasts/asia-matters-podcast-asia-matters-EJSFdHqUWtX/">Listen Notes</a>, <a href="https://podcastindex.org/podcast/995325">Podcast Index</a>, <a href="https://castro.fm/podcast/e884bf98-385c-4169-b1ff-de36b16737db">Castro</a>, <a href="https://castbox.fm/channel/Asia-Matters-Podcast-id2454825?country=us">Castbox</a>, <a href="https://pca.st/lrolfiqt">Pocket Casts</a>, and <a href="https://web.podfriend.com/podcast/1487381702">Podfriend</a>
     </center>
   </p>
 
