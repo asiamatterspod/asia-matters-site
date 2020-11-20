@@ -14,7 +14,7 @@ When Joko Widodo, widely known as Jokowi, became president of Indonesia in 2014,
 <script src="https://www.buzzsprout.com/699187/6054442-indonesia-s-leader-of-contradictions.js?container_id=buzzsprout-player-6054442&player=small" type="text/javascript" charset="utf-8"></script>
 <br>
 
-_____________________________________________________________________________________________
+<hr>
 
 ## [21 | SoftBank: Asia's Most Influential Tech Company](/episode-21)
 
@@ -28,7 +28,7 @@ This week's episode is a deep dive on a company that's transforming not just Asi
 <script src="https://www.buzzsprout.com/699187/5784994-softbank-asia-s-most-influential-tech-company.js?container_id=buzzsprout-player-5784994&player=small" type="text/javascript" charset="utf-8"></script>
 <br>
 
-_______________________________________________________________________________________________
+<hr>
 
 ## [20 | India in the COVID-19 Era](/episode-20)
 
@@ -44,7 +44,7 @@ In the second of our special editions recorded at the Association for Asian Stud
 <script src="https://www.buzzsprout.com/699187/5637895-india-in-the-covid-19-era.js?container_id=buzzsprout-player-5637895&player=small" type="text/javascript" charset="utf-8"></script>
 <br>
 
-____________________________________________________________________________
+<hr>
 
 ## [19 | South Asia's Dual Crises: Coronavirus and Climate Change](/episode-19)
 
@@ -58,7 +58,7 @@ South Asian countries are facing a double whammy - the effects of the global pan
 <script src="https://www.buzzsprout.com/699187/5375992-south-asia-s-dual-crises-coronavirus-and-climate-change.js?container_id=buzzsprout-player-5375992&player=small" type="text/javascript" charset="utf-8"></script>
 <br>
 
-____________________________________________________________________________
+<hr>
 
 ## [18 | Summer of China: Three Books to Read](/episode-18)
 
@@ -72,7 +72,7 @@ This episode, we present - the inaugural Asia Matters Book Club episode. China h
 <script src="https://www.buzzsprout.com/699187/5177908-summer-of-china-three-books-to-read.js?container_id=buzzsprout-player-5177908&player=small" type="text/javascript" charset="utf-8"></script>
 <br>
 
-____________________________________________________________________________
+<hr>
 
 ## [17 | Japan's Foreign Policy: The Art of Persuasion?](/episode-17)
 
@@ -86,7 +86,7 @@ This episode, in a collaboration with the Daiwa Anglo-Japanese Foundation, we tu
 <script src="https://www.buzzsprout.com/699187/5025152-japan-s-foreign-policy-the-art-of-persuasion.js?container_id=buzzsprout-player-5025152&player=small" type="text/javascript" charset="utf-8"></script>
 <br>
 
-____________________________________________________________________________
+<hr>
 
 ## [16 | Coronavirus and Racism: Asian-Americans in the Crossfire](/episode-16)
 
@@ -100,7 +100,7 @@ The world is still very much in the grip of the coronavirus pandemic - but the b
 <script src="https://www.buzzsprout.com/699187/4676324-coronavirus-and-racism-asian-americans-in-the-crossfire.js?container_id=buzzsprout-player-4676324&player=small" type="text/javascript" charset="utf-8"></script>
 <br>
 
-____________________________________________________________________________
+<hr>
 
 ## [15 | Do Middle Powers Have a China Dilemma?](/episode-15)
 
@@ -114,7 +114,7 @@ We often talk about geopolitics in terms of superpower competition - at the mome
 <script src="https://www.buzzsprout.com/699187/4426709-do-middle-powers-have-a-china-dilemma.js?container_id=buzzsprout-player-4426709&player=small" type="text/javascript" charset="utf-8"></script>
 <br>
 
-____________________________________________________________________________
+<hr>
 
 ## [14 | The Luckin Scandal: How "China's Starbucks" Crashed](/episode-14)
 
@@ -128,7 +128,7 @@ The pandemic-related lockdown continues in much of the world, but in China, they
 <script src="https://www.buzzsprout.com/699187/4058483-the-luckin-scandal-how-china-s-starbucks-crashed.js?container_id=buzzsprout-player-4058483&player=small" type="text/javascript" charset="utf-8"></script>
 <br>
 
-____________________________________________________________________________
+<hr>
 
 ## [13 | China's "Two Sessions": Hong Kong, COVID-19 and the Economy](/episode-13)
 
@@ -142,7 +142,7 @@ There was plenty to digest from China's coronavirus-delayed "Two Sessions" (Lian
 <script src="https://www.buzzsprout.com/699187/4016996-china-s-two-sessions-hong-kong-covid-19-and-the-economy.js?container_id=buzzsprout-player-4016996&player=small" type="text/javascript" charset="utf-8"></script>
 <br>
 
-____________________________________________________________________________
+<hr>
 
 ## [12 | Pandemic Fallout: Advantage China?](/episode-12)
 
@@ -156,7 +156,7 @@ Welcome to another episode of Asia Matters, lockdown style. This week, Vincent a
 <script src="https://www.buzzsprout.com/699187/3729524-pandemic-fallout-advantage-china.js?container_id=buzzsprout-player-3729524&player=small" type="text/javascript" charset="utf-8"></script>
 <br>
 
-____________________________________________________________________________
+<hr>
 
 ## [11 | Myanmar 101: From Colonialism to Coronavirus](/episode-11)
 
@@ -170,7 +170,7 @@ In the latest of our lockdown podcasts, we turn to Myanmar. Andrew and Vincent a
 <script src="https://www.buzzsprout.com/699187/3517189-myanmar-101-from-colonialism-to-coronavirus.js?container_id=buzzsprout-player-3517189&player=small" type="text/javascript" charset="utf-8"></script>
 <br>
 
-____________________________________________________________________________
+<hr>
 
 ## [10 | North Korea, U.S. & China: Where Next?](/episode-10)
 
@@ -184,7 +184,7 @@ One of the biggest - and most persistent - stories in the Asia region over the l
 <script src="https://www.buzzsprout.com/699187/3395473-north-korea-u-s-china-where-next.js?container_id=buzzsprout-player-3395473&player=small" type="text/javascript" charset="utf-8"></script>
 <br>
 
-____________________________________________________________________________
+<hr>
 
 ## [9 | COVID-19: How Have Asian Approaches Differed?](/episode-9)
 
@@ -198,7 +198,7 @@ Welcome to podcasting in a time of COVID-19. The new coronavirus has run rampant
 <script src="https://www.buzzsprout.com/699187/3037882-covid-19-how-have-asian-approaches-differed.js?container_id=buzzsprout-player-3037882&player=small" type="text/javascript" charset="utf-8"></script>
 <br>
 
-____________________________________________________________________________
+<hr>
 
 ## [8 | India: Is Hindu Nationalism Endangering Its Democracy?](/episode-8)
 
@@ -212,7 +212,7 @@ In December last year, Narendra Modi's government passed the controversial Citiz
 <script src="https://www.buzzsprout.com/699187/2920981-india-is-hindu-nationalism-endangering-its-democracy.js?container_id=buzzsprout-player-2920981&player=small" type="text/javascript" charset="utf-8"></script>
 <br>
 
-____________________________________________________________________________
+<hr>
 
 ## [7 | Chinese Economy: Mounting Debt, Deeper Headaches](/episode-7)
 
@@ -226,7 +226,7 @@ China's economy is facing its biggest challenges for years as growth slows and d
 <script src="https://www.buzzsprout.com/699187/2729200-chinese-economy-mounting-debt-deeper-headaches.js?container_id=buzzsprout-player-2729200&player=small" type="text/javascript" charset="utf-8"></script>
 <br>
 
-____________________________________________________________________________
+<hr>
 
 ## [6 | COVID-19 and SARS: Lessons Learnt?](/episode-6)
 
@@ -240,7 +240,7 @@ There's only been one story in the region over the last few weeks: the coronavir
 <script src="https://www.buzzsprout.com/699187/2650174-covid-19-and-sars-lessons-learnt.js?container_id=buzzsprout-player-2650174&player=small" type="text/javascript" charset="utf-8"></script>
 <br>
 
-____________________________________________________________________________
+<hr>
 
 ## [5 | Tsai Ing-wen Re-election: The China Factor and Taiwanese Identity](/episode-5)
 
@@ -254,7 +254,7 @@ Last week, Taiwan re-elected its president, Tsai Ing-wen (蔡英文), by a lands
 <script src="https://www.buzzsprout.com/699187/2519668-tsai-ing-wen-re-election-the-china-factor-and-taiwanese-identity.js?container_id=buzzsprout-player-2519668&player=small" type="text/javascript" charset="utf-8"></script>
 <br>
 
-____________________________________________________________________________
+<hr>
 
 ## [4 | U.S. - China Trade War: Is the Show Over Yet?](/episode-4)
 
@@ -268,7 +268,7 @@ The U.S. - China trade war is going through another bout of excitement as the tw
 <script src="https://www.buzzsprout.com/699187/2282636-u-s-china-trade-war-is-the-show-over-yet.js?container_id=buzzsprout-player-2282636&player=small" type="text/javascript" charset="utf-8"></script>
 <br>
 
-____________________________________________________________________________
+<hr>
 
 ## [3 | What China's Ambitions Tell Us about Tech in Asia](/episode-3)
 
@@ -282,7 +282,7 @@ A bumper episode for a hugely important topic - the tech industry in Asia. Yale'
 <script src="https://www.buzzsprout.com/699187/2199971-what-china-s-ambitions-tell-us-about-tech-in-asia.js?container_id=buzzsprout-player-2199971&player=small" type="text/javascript" charset="utf-8"></script>
 <br>
 
-____________________________________________________________________________
+<hr>
 
 ## [2 | 1MDB: A Billion Dollar Scandal](/episode-2)
 
@@ -296,7 +296,7 @@ It's been called one of the world's biggest financial heists. When the Malaysian
 <script src="https://www.buzzsprout.com/699187/2100834-1mdb-a-billion-dollar-scandal.js?container_id=buzzsprout-player-2100834&player=small" type="text/javascript" charset="utf-8"></script>
 <br>
 
-____________________________________________________________________________
+<hr>
 
 ## [1 | Japan vs. South Korea: Asia's Other Trade War](/episode-1)
 
@@ -311,8 +311,7 @@ The leaders of South Korea and Japan recently held talks for the first time in o
 
 <br>
 <footer>
-  <p>_________________________________________________________________________________________________________
-  </p>
+  <hr>
   <div class="social-media-links">
       <a href="https://twitter.com/asiamatterspod" class="social-media-link">
           <img src="{{site.url}}/assets/img/twitter.svg" alt="Twitter" height="40" />

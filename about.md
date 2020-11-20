@@ -29,8 +29,7 @@ Andrew Peaple has long experience of living and working in Asia. His 16 years as
 
 <br>
 <footer>
-  <p>_________________________________________________________________________________________________________
-  </p>
+  <hr>
   <div class="social-media-links">
       <a href="https://twitter.com/asiamatterspod" class="social-media-link">
           <img src="{{site.url}}/assets/img/twitter.svg" alt="Twitter" height="40" />
