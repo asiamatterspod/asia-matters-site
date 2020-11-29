@@ -1,6 +1,22 @@
 ---
 layout: default
 ---
+
+## [23 | Biden in Asia: New President, New Rules?](/episode-23)
+
+November 29, 2020
+
+Featured Guests: Jaewoo Choo, Dewi Fortuna Anwar, Yuka Kobayashi
+
+It took a little longer than expected but we finally know who the next American president will be: Democratic candidate Joe Biden. The Trump era is drawing to a close... [more](/episode-23)
+
+
+<div id="buzzsprout-player-6600820"></div>
+<script src="https://www.buzzsprout.com/699187/6600820-biden-in-asia-new-president-new-rules.js?container_id=buzzsprout-player-6600820&player=small" type="text/javascript" charset="utf-8"></script>
+<br>
+
+<hr>
+
 ## [22 | Joko Widodo: Indonesia's Leader of Contradictions](/episode-22)
 
 October 26, 2020
