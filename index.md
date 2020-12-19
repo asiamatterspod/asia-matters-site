@@ -1,7 +1,21 @@
 ---
 layout: default
 ---
+## [24 | Southeast Asia and China: Generous Neighbour or the Bully Next Door?](/episode-24)
 
+December 19, 2020
+
+Featured Guests: Pon Souvannaseng, Sebastian Strangio, Enze Han
+<br>
+Featured Host: Bill Hayton
+
+Southeast Asia is becoming an increasingly important geopolitical battleground - and so this week, we put the region's complex relations with China in the spotlight... [more](/episode-23)
+
+<div id="buzzsprout-player-6891599"></div>
+<script src="https://www.buzzsprout.com/699187/6891599-southeast-asia-and-china-generous-neighbour-or-the-bully-next-door.js?container_id=buzzsprout-player-6891599&player=small" type="text/javascript" charset="utf-8"></script>
+<br>
+
+<hr>
 ## [23 | Biden in Asia: New President, New Rules?](/episode-23)
 
 November 29, 2020
@@ -166,7 +180,7 @@ May 12, 2020
 
 Featured Guests: Courtney Fung, Rush Doshi
 
-Welcome to another episode of Asia Matters, lockdown style. This week, Vincent and Andrew are joined by Courtney Fung [(@CourtneyFung)](https://twitter.com/courtneyfung?lang=en) of the University of Hong Kong... [more](/episode-12)
+Welcome to another episode of Asia Matters, lockdown style. This week, Vincent and Andrew are joined by Courtney Fung of the University of Hong Kong and Rush Doshi... [more](/episode-12)
 
 <div id="buzzsprout-player-3729524"></div>
 <script src="https://www.buzzsprout.com/699187/3729524-pandemic-fallout-advantage-china.js?container_id=buzzsprout-player-3729524&player=small" type="text/javascript" charset="utf-8"></script>
