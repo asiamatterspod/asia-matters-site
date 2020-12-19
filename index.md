@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## [24 | Southeast Asia and China: Generous Neighbour or the Bully Next Door?](/episode-24)
+## [24 | Southeast Asia and China: Living with the Giant Next Door](/episode-24)
 
 December 19, 2020
 
