@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-## [24 | Southeast Asia and China: Living with the Giant Next Door](/episode-24)
+## [24 | Southeast Asia and China: Too Close for Comfort?](/episode-24)
 
-December 19, 2020
+December 21, 2020
 
 Featured Guests: Pon Souvannaseng, Sebastian Strangio, Enze Han
 <br>
