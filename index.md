@@ -9,7 +9,7 @@ Featured Guests: Pon Souvannaseng, Sebastian Strangio, Enze Han
 <br>
 Featured Host: Bill Hayton
 
-Southeast Asia is becoming an increasingly important geopolitical battleground - and so this week, we put the region's complex relations with China in the spotlight... [more](/episode-23)
+Southeast Asia is becoming an increasingly important geopolitical battleground - and so this week, we put the region's complex relations with China in the spotlight... [more](/episode-24)
 
 <div id="buzzsprout-player-6891599"></div>
 <script src="https://www.buzzsprout.com/699187/6891599-southeast-asia-and-china-generous-neighbour-or-the-bully-next-door.js?container_id=buzzsprout-player-6891599&player=small" type="text/javascript" charset="utf-8"></script>
