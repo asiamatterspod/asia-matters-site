@@ -8,12 +8,12 @@ Asia Matters is a podcast that features experts from around the globe to help ex
 
 # The Creators
 
-## Vincent Ni [(@nivincent)](https://twitter.com/nivincent)
+<!-- ## Vincent Ni [(@nivincent)](https://twitter.com/nivincent)
 
-<!-- img src="https://user-images.githubusercontent.com/67763587/94476153-ed17c180-0184-11eb-88b5-9baf0695faf9.png"
+img src="https://user-images.githubusercontent.com/67763587/94476153-ed17c180-0184-11eb-88b5-9baf0695faf9.png"
   style="width:150px;height:200px;margin-right:15px;"
-  align="left" /-->
-  <p>Vincent Ni is the co-founder and co-host of Asia Matters podcast. He's a 2018 World Fellow at Yale University in the United States. As a journalist, over the past 15 years, he has reported from Asia, the Middle East, Europe, and North America. He is a graduate of Oxford University in England, and has lectured at Yale, London School of Economics, as well as Yale-NUS in Singapore.</p>
+  align="left" /
+  <p>Vincent Ni is the co-founder and co-host of Asia Matters podcast. He's a 2018 World Fellow at Yale University in the United States. As a journalist, over the past 15 years, he has reported from Asia, the Middle East, Europe, and North America. He is a graduate of Oxford University in England, and has lectured at Yale, London School of Economics, as well as Yale-NUS in Singapore.</p>-->
 
 ## Andrew Peaple [(@andypeaps)](https://twitter.com/andypeaps)
 
