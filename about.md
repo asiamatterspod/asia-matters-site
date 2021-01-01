@@ -27,6 +27,10 @@ Andrew Peaple has long experience of living and working in Asia. His 16 years as
   <p>Rebecca Bailey joined the Asia Matters team as the founding producer. She currently works as a news editor on AFP's Asia-Pacific desk in Hong Kong. Before this she was at the BBC for seven years, and edited one of BBC World's flagship TV programmes, Outside Source. She read Chinese Studies at university and has always maintained a deep interest in the wider Asia region, having spent time working in Singapore and Beijing.
 </p>
 
+## Harry Yeung
+
+Harry Yeung is a contributor to the Asia Matters podcast. He conducts background research for episodes. He built this website and manages the mailing list and social media. He is a current undergraduate at Swarthmore College pursuing a B.A. in political science. 
+
 <br>
 <footer>
   <hr>
