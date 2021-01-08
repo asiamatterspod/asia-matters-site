@@ -6,14 +6,15 @@ layout: default
 
 Asia Matters is a podcast that features experts from around the globe to help explain what’s really going on in the region's politics, business and culture today.
 
+<!--
 # The Creators
 
-<!-- ## Vincent Ni [(@nivincent)](https://twitter.com/nivincent)
+## Vincent Ni [(@nivincent)](https://twitter.com/nivincent)
 
 img src="https://user-images.githubusercontent.com/67763587/94476153-ed17c180-0184-11eb-88b5-9baf0695faf9.png"
   style="width:150px;height:200px;margin-right:15px;"
   align="left" /
-  <p>Vincent Ni is the co-founder and co-host of Asia Matters podcast. He's a 2018 World Fellow at Yale University in the United States. As a journalist, over the past 15 years, he has reported from Asia, the Middle East, Europe, and North America. He is a graduate of Oxford University in England, and has lectured at Yale, London School of Economics, as well as Yale-NUS in Singapore.</p>-->
+  <p>Vincent Ni is the co-founder and co-host of Asia Matters podcast. He's a 2018 World Fellow at Yale University in the United States. As a journalist, over the past 15 years, he has reported from Asia, the Middle East, Europe, and North America. He is a graduate of Oxford University in England, and has lectured at Yale, London School of Economics, as well as Yale-NUS in Singapore.</p>
 
 ## Andrew Peaple [(@andypeaps)](https://twitter.com/andypeaps)
 
@@ -21,15 +22,17 @@ Andrew Peaple has long experience of living and working in Asia. His 16 years as
 
 ## Rebecca Bailey [(@BeiJia_B)](https://twitter.com/BeiJia_B)
 
-<!-- img src="https://user-images.githubusercontent.com/67763587/98584348-9bca1a00-227a-11eb-9402-25893fbef8f7.png"
+img src="https://user-images.githubusercontent.com/67763587/98584348-9bca1a00-227a-11eb-9402-25893fbef8f7.png"
   style="width:150px;height:200px;margin-right:15px;"
-  align="left" /-->
+  align="left" /
   <p>Rebecca Bailey joined the Asia Matters team as the founding producer. She currently works as a news editor on AFP's Asia-Pacific desk in Hong Kong. Before this she was at the BBC for seven years, and edited one of BBC World's flagship TV programmes, Outside Source. She read Chinese Studies at university and has always maintained a deep interest in the wider Asia region, having spent time working in Singapore and Beijing.
 </p>
 
 ## Harry Yeung
 
-Harry Yeung is a contributor to the Asia Matters podcast. He conducts background research for episodes. He built this website and manages the mailing list and social media. He is a current undergraduate at Swarthmore College pursuing a B.A. in political science. 
+Harry Yeung is a contributor to the Asia Matters podcast. He conducts background research for episodes. He built this website and manages the mailing list and social media. He is a current undergraduate at Swarthmore College pursuing a B.A. in political science.
+
+-->
 
 <br>
 <footer>
