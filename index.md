@@ -1,6 +1,21 @@
 ---
 layout: default
 ---
+## [25 | US - India Relations: Why Modi Will Be Key to Biden's Asia Plans](/episode-25)
+
+January 10, 2021
+
+Featured Guests: Nirupama Rao, Raja Mohan
+<br>
+Featured Host: James Crabtree
+
+The US and India are the world's two biggest democracies - and the relationship between them is one  of the world's most important bilateral partnerships ... [more](/episode-25)
+
+<div id="buzzsprout-player-7209880"></div>
+<script src="https://www.buzzsprout.com/699187/7209880-us-india-relations-why-modi-will-be-key-to-biden-s-asia-plans.js?container_id=buzzsprout-player-7209880&player=small" type="text/javascript" charset="utf-8"></script>
+<br>
+
+<hr>
 ## [24 | Southeast Asia and China: Too Close for Comfort?](/episode-24)
 
 December 21, 2020
