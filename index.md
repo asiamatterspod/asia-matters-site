@@ -1,6 +1,20 @@
 ---
 layout: default
 ---
+
+## [26 | Myanmar's Military Are Back: First Impressions of the Coup](/episode-26)
+
+February 7, 2021
+
+Featured Guests: Champa Patel, Tin Htar Swe
+
+“Our country was a bird that was just learning to fly. Now the army broke our wings,” said one activist. “What was granted by the generals is now being taken ... [more](/episode-26)
+
+<div id="buzzsprout-player-7727740"></div>
+<script src="https://www.buzzsprout.com/699187/7727740-myanmar-s-military-are-back-first-impressions-of-the-coup.js?container_id=buzzsprout-player-7727740&player=small" type="text/javascript" charset="utf-8"></script>
+<br>
+
+<hr>
 ## [25 | US - India Relations: Why Modi Will Be Key to Biden's Asia Plans](/episode-25)
 
 January 10, 2021
