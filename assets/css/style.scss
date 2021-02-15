@@ -64,3 +64,51 @@
   clear: both;
   display: table;
 }
+
+/** Navbar dropdown menus **/
+
+.dropdown.container {
+  position: relative;
+  display: inline-block;
+  overflow: visible;
+  margin-bottom: 1rem;
+}
+
+.dropdown.anchor,
+.dropdown.item {
+  cursor: pointer;
+  padding: 0.75rem 1rem;
+  color: black;
+}
+
+.dropdown.anchor::after {
+  content: ' ⏷';
+}
+
+.dropdown.item:hover,
+.dropdown.anchor:hover {
+  transition: color 0.2s;
+  color: darkgray;
+}
+
+.dropdown.contents {
+  position: absolute;
+  display: none;
+  flex-direction: column;
+  align-items: flex-start;
+  background: white;
+  box-shadow: 2px 3px 5px rgba(0, 0, 0, 0.25);
+  width: auto;
+}
+
+.dropdown.anchor:hover + .dropdown.contents,
+.dropdown.contents:hover {
+  display: flex;
+}
+
+.dropdown.item {
+  display: block;
+  padding: 0.75rem 1rem;
+  text-decoration: none;
+  white-space: nowrap;
+}
