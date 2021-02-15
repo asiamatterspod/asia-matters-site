@@ -1,6 +1,13 @@
 - title: Episodes
   url: /
 
+- title: Readings
+  dropdown:
+  - title: "Asia's Reckoning"
+    url: /
+  - title: "Asymmetrical Neighbours"
+    url: /subscribe
+
 #- title: About
 #  url: /about
 
