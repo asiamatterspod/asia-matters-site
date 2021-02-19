@@ -2,6 +2,21 @@
 layout: default
 ---
 
+## [27 | What to Expect from Vietnam’s New Leaders](/episode-27)
+
+February 19, 2021
+
+Featured Guests: Nguyen Phuong Linh, Nguyen Khac Giang
+<br>
+Featured Host: Bill Hayton
+
+After a year-long battle behind closed doors, Vietnam has a new political leadership. At its Congress, which finished on February 1st ... [more](/episode-27)
+
+<div id="buzzsprout-player-7814224"></div>
+<script src="https://www.buzzsprout.com/699187/7814224.js?container_id=buzzsprout-player-7814224&player=small" type="text/javascript" charset="utf-8"></script>
+<br>
+
+<hr>
 ## [26 | Myanmar's Military Are Back: First Impressions of the Coup](/episode-26)
 
 February 7, 2021
