@@ -4,12 +4,12 @@
 #- title: About
 #  url: /about
 
-#- title: Readings
-#  dropdown:
-#  - title: "Books"
-#    url: /books
-#  - title: "Articles"
-#    url: /articles
+- title: Readings
+  dropdown:
+  - title: "Books"
+    url: /books
+  - title: "Articles"
+    url: /articles
 
 - title: Subscribe
   url: /subscribe
