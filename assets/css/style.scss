@@ -81,7 +81,7 @@
 }
 
 .dropdown.anchor::after {
-  content: ' ⏷';
+  content: ' ⏷';
 }
 
 .dropdown.item:hover,
@@ -101,7 +101,7 @@
 }
 
 .dropdown.anchor:hover + .dropdown.contents,
-.dropdown.contents:active
+.dropdown.contents:active,
 .dropdown.contents:hover {
   display: flex;
 }
