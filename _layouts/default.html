@@ -43,7 +43,7 @@
       {% for page in site.data.navigation %}
         {% if page.dropdown %}
           <div class="dropdown container">
-            <div class="dropdown anchor">
+            <div class="dropdown anchor" tabindex="0">
               {{ page.title }}
             </div>
             <div class="dropdown contents">
