@@ -101,7 +101,7 @@
 }
 
 .dropdown.anchor:hover + .dropdown.contents,
-.dropdown.anchor:active,
+.dropdown.anchor:active + dropdown.contents,
 .dropdown.contents:hover {
   display: flex;
 }
