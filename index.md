@@ -2,6 +2,19 @@
 layout: default
 ---
 
+## [28 | Islands Apart: Pacific Nations in the COVID Era](/episode-28)
+
+March 1, 2021
+
+Featured Guests: Lagipoiva Cherelle Jackson, David Ward, Jonathan Pryke
+
+In this episode we turn to a part of the world we haven’t discussed before — the Pacific Islands. Stretching over a vast area covering some 15% of the earth’s surface ... [more](/episode-28)
+
+<div id="buzzsprout-player-8008499"></div>
+<script src="https://www.buzzsprout.com/699187/8008499.js?container_id=buzzsprout-player-8008499&player=small" type="text/javascript" charset="utf-8"></script>
+<br>
+
+<hr>
 ## [27 | What to Expect from Vietnam’s New Leaders](/episode-27)
 
 February 19, 2021
