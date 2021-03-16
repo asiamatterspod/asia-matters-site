@@ -14,6 +14,20 @@ layout: default
   content="An independent podcast that goes beyond the headlines with experts from around the globe to help explain what's shaping the world's most exciting region.">
 </head>
 
+
+## [29 | China Faces Up To Its Biggest Challenges](/episode-29)
+
+March 16, 2021
+
+Featured Guests: Tao Wang, Jinny Yan, Scott Rozelle
+
+China’s rulers have been setting out their goals for the country at their big annual political meetings in Beijing. This year’s event held special significance ... [more](/episode-29)
+
+<div id="buzzsprout-player-8150193"></div>
+<script src="https://www.buzzsprout.com/699187/8150193-china-faces-up-to-its-biggest-challenges.js?container_id=buzzsprout-player-8150193&player=small" type="text/javascript" charset="utf-8"></script>
+<br>
+
+<hr>
 ## [28 | Islands Apart: Pacific Nations in the COVID Era](/episode-28)
 
 March 1, 2021
