@@ -5,7 +5,7 @@ description: Going beyond the headlines in the world's most exciting region
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  # - jekyll-seo-tag
+  - jekyll-seo-tag
 
 github:
   is_project_page: false

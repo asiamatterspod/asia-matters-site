@@ -1,4 +1,6 @@
 ---
+title: "Asia Matters Podcast"
+description: An independent podcast that goes beyond the headlines with experts from around the globe to help explain what's shaping the world's most exciting region.
 layout: default
 ---
 
@@ -8,12 +10,7 @@ layout: default
   <meta name="twitter:title" content="Homepage" />
   <meta name="twitter:description" content="The Asia Matters Podcast is an independent podcast that goes beyond the headlines with experts from around the globe to explain what's shaping the world's most exciting region." />
   <meta name="twitter:image" content="https://user-images.githubusercontent.com/67763587/97117453-1b73b880-16c1-11eb-8dfb-30e8781bf66c.png" />
-
-  <title>Asia Matters Podcast</title>
-  <meta name="description"
-  content="An independent podcast that goes beyond the headlines with experts from around the globe to help explain what's shaping the world's most exciting region.">
 </head>
-
 
 ## [29 | China Faces Up To Its Biggest Challenges](/episode-29)
 
