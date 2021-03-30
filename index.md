@@ -10,7 +10,7 @@ layout: default
   <meta name="twitter:image" content="https://user-images.githubusercontent.com/67763587/97117453-1b73b880-16c1-11eb-8dfb-30e8781bf66c.png" />
 </head>
 
-## [30 | How is China Changing - And Being Changed by - the UN](/episode-30)
+## [30 | How China is Changing - And Being Changed by - the UN](/episode-30)
 
 March 28, 2021
 
@@ -18,8 +18,8 @@ Featured Guests: Rosemary Foot, Courtney Fung
 
 China’s growing clout in the world economy is being matched ever more closely by its rising influence over major international institutions... [more](/episode-30)
 
-<div id="buzzsprout-player-8136424"></div>
-<script src="https://www.buzzsprout.com/699187/8136424-how-is-china-changing-and-being-changed-by-the-un.js?container_id=buzzsprout-player-8136424&player=small" type="text/javascript" charset="utf-8"></script>
+<iframe src="https://www.buzzsprout.com/699187/8136424?client_source=small_player&amp;amp;iframe=true" scrolling="no" width="100%" height="200" frameborder="0"></iframe>
+
 <br>
 
 <hr>
