@@ -18,8 +18,8 @@ Featured Guests: Rosemary Foot, Courtney Fung
 
 China’s growing clout in the world economy is being matched ever more closely by its rising influence over major international institutions... [more](/episode-30)
 
-<iframe src="https://www.buzzsprout.com/699187/8136424?client_source=small_player&amp;amp;iframe=true" scrolling="no" width="100%" height="200" frameborder="0"></iframe>
-
+<div id="buzzsprout-player-8136424"></div>
+<script src="https://www.buzzsprout.com/699187/8136424-how-is-china-changing-and-being-changed-by-the-un.js?container_id=buzzsprout-player-8136424&player=small" type="text/javascript" charset="utf-8"></script>
 <br>
 
 <hr>
