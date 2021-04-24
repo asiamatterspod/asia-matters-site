@@ -10,6 +10,22 @@ layout: default
   <meta name="twitter:image" content="https://user-images.githubusercontent.com/67763587/97117453-1b73b880-16c1-11eb-8dfb-30e8781bf66c.png" />
 </head>
 
+
+## [31 | ASEAN and Myanmar: How to Handle the Coup Next Door](/episode-31)
+
+April 24, 2021
+
+Featured Guests: Bilahari Kausikan, Hoang Thi Ha
+<br>
+Featured Host: Bill Hayton
+
+ASEAN leaders will meet in Jakarta on April 24 to discuss the ongoing crisis in Myanmar, which has shown no sign of abating since a military coup... [more](/episode-31)
+
+<div id="buzzsprout-player-8389854"></div>
+<script src="https://www.buzzsprout.com/699187/8389854-asean-and-myanmar-how-to-handle-the-coup-next-door.js?container_id=buzzsprout-player-8389854&player=small" type="text/javascript" charset="utf-8"></script>
+<br>
+
+<hr>
 ## [30 | How China is Changing - And Being Changed by - the UN](/episode-30)
 
 March 28, 2021
@@ -19,7 +35,7 @@ Featured Guests: Rosemary Foot, Courtney Fung
 China’s growing clout in the world economy is being matched ever more closely by its rising influence over major international institutions... [more](/episode-30)
 
 <div id="buzzsprout-player-8136424"></div>
-<script src="https://www.buzzsprout.com/699187/8136424-how-is-china-changing-and-being-changed-by-the-un.js?container_id=buzzsprout-player-8136424&player=small" type="text/javascript" charset="utf-8"></script>g
+<script src="https://www.buzzsprout.com/699187/8136424-how-is-china-changing-and-being-changed-by-the-un.js?container_id=buzzsprout-player-8136424&player=small" type="text/javascript" charset="utf-8"></script>
 <br>
 
 <hr>
