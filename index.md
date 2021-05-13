@@ -10,6 +10,19 @@ layout: default
   <meta name="twitter:image" content="https://user-images.githubusercontent.com/67763587/97117453-1b73b880-16c1-11eb-8dfb-30e8781bf66c.png" />
 </head>
 
+## [33 | Biden Post-100 Days: The View from Asia](/episode-33)
+
+May 12, 2021
+
+Featured Guests: Jaewoo Choo, Satu Limaye, Haruko Satoh
+
+US President Joe Biden has steamed past his first 100 days in office, typically a stage where we can look back and take stock of where a new administration... [more](/episode-33)
+
+<div id="buzzsprout-player-8507950"></div>
+<script src="https://www.buzzsprout.com/699187/8507950-biden-post-100-days-the-view-from-asia.js?container_id=buzzsprout-player-8507950&player=small" type="text/javascript" charset="utf-8"></script>
+<br>
+
+<hr>
 ## [32 | Dealing with Disinformation: A Global Challenge](/episode-32)
 
 May 3, 2021
