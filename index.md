@@ -10,6 +10,19 @@ layout: default
   <meta name="twitter:image" content="https://user-images.githubusercontent.com/67763587/97117453-1b73b880-16c1-11eb-8dfb-30e8781bf66c.png" />
 </head>
 
+## [35 | North Korea: Is full denuclearisation still a viable goal?](/episode-35)
+
+June 2, 2021
+
+Featured Guests: Ramon Pacheco Pardo, Sue Mi Terry
+
+For this episode we're taking a look at one of the world’s most intractable geopolitical issues - North Korea - as the second of our collaborations... [more](/episode-35)
+
+<div id="buzzsprout-player-8626051"></div>
+<script src="https://www.buzzsprout.com/699187/8626051-north-korea-is-full-denuclearisation-still-a-viable-goal.js?container_id=buzzsprout-player-8626051&player=small" type="text/javascript" charset="utf-8"></script>
+<br>
+
+<hr>
 ## [34 | Japan and South Korea: Navigating an Era of Competition](/episode-34)
 
 May 28, 2021
@@ -25,7 +38,6 @@ This week we set our sights on Japan and South Korea, East Asia's most prominent
 <br>
 
 <hr>
-
 ## [33 | Biden Post-100 Days: The View from Asia](/episode-33)
 
 May 12, 2021
