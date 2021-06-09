@@ -10,9 +10,24 @@ layout: default
   <meta name="twitter:image" content="https://user-images.githubusercontent.com/67763587/97117453-1b73b880-16c1-11eb-8dfb-30e8781bf66c.png" />
 </head>
 
-## [35 | North Korea: Is full denuclearisation still a viable goal?](/episode-35)
+## [36 | Does China See Itself as a Great Power?](/episode-36)
 
-June 2, 2021
+June 8, 2021
+
+Featured Guests: Shaun Breslin, Suyan Pan
+<br>
+Featured Host: Rana Mitter
+
+In July the Chinese Communist Party turns 100. From humble beginnings in a small building in Shanghai's French Concession, the party would go on to seize... [more](/episode-36)
+
+<div id="buzzsprout-player-8665780"></div>
+<script src="https://www.buzzsprout.com/699187/8665780-does-china-see-itself-as-a-great-power.js?container_id=buzzsprout-player-8665780&player=small" type="text/javascript" charset="utf-8"></script>
+<br>
+
+<hr>
+## [35 | North Korea: Is Full Denuclearisation Still a Viable Goal?](/episode-35)
+
+June 1, 2021
 
 Featured Guests: Ramon Pacheco Pardo, Sue Mi Terry
 
