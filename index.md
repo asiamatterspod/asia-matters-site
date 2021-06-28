@@ -10,7 +10,7 @@ layout: default
   <meta name="twitter:image" content="https://user-images.githubusercontent.com/67763587/97117453-1b73b880-16c1-11eb-8dfb-30e8781bf66c.png" />
 </head>
 
-## [37 | Will the EU Join the Quad Party in the Indo-Pacific?](/episode-37)
+## [37 | How the EU Fits into Asia’s Security Puzzle](/episode-37)
 
 June 28, 2021
 
