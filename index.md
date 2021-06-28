@@ -10,6 +10,19 @@ layout: default
   <meta name="twitter:image" content="https://user-images.githubusercontent.com/67763587/97117453-1b73b880-16c1-11eb-8dfb-30e8781bf66c.png" />
 </head>
 
+## [37 | Will the EU Join the Quad Party in the Indo-Pacific?](/episode-37)
+
+June 28, 2021
+
+Featured Guests: Eva Pejsova, Abhijit Singh, Kei Koga
+
+This week we turn our attention to the Indo-Pacific - and the new geopolitical groupings emerging there, from multilateral trade deals to nascent security... [more](/episode-37)
+
+<div id="buzzsprout-player-8770520"></div>
+<script src="https://www.buzzsprout.com/699187/8770520-will-the-eu-join-the-quad-party-in-the-indo-pacific.js?container_id=buzzsprout-player-8770520&player=small" type="text/javascript" charset="utf-8"></script>
+<br>
+
+<hr>
 ## [36 | Does China See Itself as a Great Power?](/episode-36)
 
 June 8, 2021
