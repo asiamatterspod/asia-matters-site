@@ -10,6 +10,19 @@ layout: default
   <meta name="twitter:image" content="https://user-images.githubusercontent.com/67763587/97117453-1b73b880-16c1-11eb-8dfb-30e8781bf66c.png" />
 </head>
 
+## [38 | The Olympics in Asia: Gold, Glory and Geopolitics](/episode-38)
+
+July 12, 2021
+
+Featured Guests: Victor Cha, Shushu Chen
+
+Against all odds, and after much compromise, the Tokyo Olympic Games are set to go ahead this summer.  With no foreign fans and most spectators banned... [more](/episode-38)
+
+<div id="buzzsprout-player-8850904"></div>
+<script src="https://www.buzzsprout.com/699187/8850904-the-olympics-in-asia-gold-glory-and-geopolitics.js?container_id=buzzsprout-player-8850904&player=small" type="text/javascript" charset="utf-8"></script>
+<br>
+
+<hr>
 ## [37 | How the EU Fits into Asia’s Security Puzzle](/episode-37)
 
 June 28, 2021
