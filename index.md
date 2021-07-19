@@ -10,6 +10,20 @@ layout: default
   <meta name="twitter:image" content="https://user-images.githubusercontent.com/67763587/97117453-1b73b880-16c1-11eb-8dfb-30e8781bf66c.png" />
 </head>
 
+
+## [39 | Myanmar Six Months On: A Failed State?](/episode-39)
+
+July 19, 2021
+
+Featured Guest: Thant Myint U
+
+The most shocking political development in Asia so far this year is arguably the seizure of power by the military in Myanmar, and the arrest of the country’s... [more](/episode-39)
+
+<div id="buzzsprout-player-8886204"></div>
+<script src="https://www.buzzsprout.com/699187/8886204-myanmar-six-months-on-a-failed-state.js?container_id=buzzsprout-player-8886204&player=small" type="text/javascript" charset="utf-8"></script>
+<br>
+
+<hr>
 ## [38 | The Olympics in Asia: Gold, Glory and Geopolitics](/episode-38)
 
 July 12, 2021
