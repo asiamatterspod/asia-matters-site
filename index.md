@@ -10,7 +10,19 @@ layout: default
   <meta name="twitter:image" content="https://user-images.githubusercontent.com/67763587/97117453-1b73b880-16c1-11eb-8dfb-30e8781bf66c.png" />
 </head>
 
+## [40 | North Korea: The View from the South](/episode-40)
 
+August 8, 2021
+
+Featured Guests: Jina Kim, Ramon Pacheco Pardo
+
+We turn again to the Korean peninsula in this week's episode, in another collaboration with CSDS. We often talk about North Korea's future in terms of how the issue... [more](/episode-40)
+
+<div id="buzzsprout-player-8994260"></div>
+<script src="https://www.buzzsprout.com/699187/8994260-north-korea-the-view-from-the-south.js?container_id=buzzsprout-player-8994260&player=small" type="text/javascript" charset="utf-8"></script>
+<br>
+
+<hr>
 ## [39 | Myanmar Six Months On: A Failed State?](/episode-39)
 
 July 19, 2021
