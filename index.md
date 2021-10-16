@@ -10,13 +10,25 @@ layout: default
   <meta name="twitter:image" content="https://user-images.githubusercontent.com/67763587/97117453-1b73b880-16c1-11eb-8dfb-30e8781bf66c.png" />
 </head>
 
+## [42 | Delta Damage: Asia's Continuing COVID Struggle](/episode-42)
+
+October 16, 2021
+
+Featured Guests: Yanzhong Huang, Peter Mumford
+
+For those hoping the coronavirus pandemic was under control in Asia, the summer has been a nasty shock. A resurgence of Covid-19 across Malaysia, Thailand, Myanmar... [more](/episode-42)
+
+<div id="buzzsprout-player-9361529"></div><script src="https://www.buzzsprout.com/699187/9361529-delta-damage-asia-s-continuing-covid-struggle.js?container_id=buzzsprout-player-9361529&player=small" type="text/javascript" charset="utf-8"></script>
+<br>
+
+<hr>
 ## [41 | South Korea: The Tech Powerhouse on the Cyber Frontline](/episode-41)
 
 October 7, 2021
 
 Featured Guests: Michael Reiterer, Robyn Klingler Vidra
 
-In any list of influential tech powers in the world, South Korea would undoubtedly be near the top. In this episode we delve into how the country achieved this status.... [more](/episode-41)
+In any list of influential tech powers in the world, South Korea would undoubtedly be near the top. In this episode we delve into how the country achieved this status... [more](/episode-41)
 
 <div id="buzzsprout-player-9327197"></div><script src="https://www.buzzsprout.com/699187/9327197-south-korea-the-tech-powerhouse-on-the-cyber-frontline.js?container_id=buzzsprout-player-9327197&player=small" type="text/javascript" charset="utf-8"></script>
 <br>
