@@ -10,6 +10,18 @@ layout: default
   <meta name="twitter:image" content="https://user-images.githubusercontent.com/67763587/97117453-1b73b880-16c1-11eb-8dfb-30e8781bf66c.png" />
 </head>
 
+## [43 | China Tackles its Tech Titans](/episode-43)
+
+November 14, 2021
+
+Featured Guests: Rui Ma, Graham Webster
+
+This week we look at China's tech industry - few sectors have been more dynamic or grown as fast in recent years, with the likes of e-commerce giant Alibaba... [more](/episode-43)
+
+<div id="buzzsprout-player-9539004"></div><script src="https://www.buzzsprout.com/699187/9539004-china-tackles-its-tech-titans.js?container_id=buzzsprout-player-9539004&player=small" type="text/javascript" charset="utf-8"></script>
+<br>
+
+<hr>
 ## [42 | Delta Damage: Asia's Continuing COVID Struggle](/episode-42)
 
 October 16, 2021
