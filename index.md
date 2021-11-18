@@ -19,7 +19,8 @@ Featured Guests: Rui Ma, Graham Webster
 This week we look at China's tech industry - few sectors have been more dynamic or grown as fast in recent years, with the likes of e-commerce giant Alibaba... [more](/episode-43)
 
 <div id="buzzsprout-player-9539004"></div><script src="https://www.buzzsprout.com/699187/9539004-china-tackles-its-tech-titans.js?container_id=buzzsprout-player-9539004&player=small" type="text/javascript" charset="utf-8"></script>
-<br>
+
+[**Download a transcript of this episode here**](https://docs.google.com/document/d/15rknUegCt3wDxQX-Wivr7pyJomDGTNa2pOWNUfGxhDY/export?format=pdf)
 
 <hr>
 ## [42 | Delta Damage: Asia's Continuing COVID Struggle](/episode-42)
