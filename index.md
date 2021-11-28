@@ -10,6 +10,18 @@ layout: default
   <meta name="twitter:image" content="https://user-images.githubusercontent.com/67763587/97117453-1b73b880-16c1-11eb-8dfb-30e8781bf66c.png" />
 </head>
 
+## [44 | Good COP? China, Asia and Climate Change](/episode-42)
+
+November 27, 2021
+
+Featured Guests: Sam Geall, Tom Hale, Yan Qin
+
+This week we take stock of COP26, the latest major international meeting on climate change which just wrapped up in Glasgow - billed beforehand as the.... [more](/episode-44)
+
+<div id="buzzsprout-player-9619904"></div><script src="https://www.buzzsprout.com/699187/9619904-good-cop-china-asia-and-climate-change.js?container_id=buzzsprout-player-9619904&player=small" type="text/javascript" charset="utf-8"></script>
+<br>
+
+<hr>
 ## [43 | China Tackles its Tech Titans](/episode-43)
 
 November 14, 2021
