@@ -20,6 +20,7 @@ This week we take stock of COP26, the latest major international meeting on clim
 
 <div id="buzzsprout-player-9619904"></div><script src="https://www.buzzsprout.com/699187/9619904-good-cop-china-asia-and-climate-change.js?container_id=buzzsprout-player-9619904&player=small" type="text/javascript" charset="utf-8"></script>
 <br>
+[**Download a transcript of this episode here**](https://docs.google.com/document/d/1n210GpXZw9L_OXGG_VuMeqNQJ7UkiGUmlS_yrbknByY/export?format=pdf)
 
 <hr>
 ## [43 | China Tackles its Tech Titans](/episode-43)
