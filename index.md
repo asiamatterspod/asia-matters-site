@@ -10,6 +10,21 @@ layout: default
   <meta name="twitter:image" content="https://user-images.githubusercontent.com/67763587/97117453-1b73b880-16c1-11eb-8dfb-30e8781bf66c.png" />
 </head>
 
+## [45 | Is There a Transatlantic Approach to China and the Indo-Pacific?](/episode-45)
+
+December 15, 2021
+
+Featured Guests: Harry Harris, Michael Reiterer
+<br>
+Featured Host: Raffaello Pantucci
+
+We’re heading to familiar territory again on this week's podcast - the Indo-Pacific. Increasingly, the area is becoming the centre of the geopolitical conversation... [more](/episode-45)
+
+<div id="buzzsprout-player-9725934"></div><script src="https://www.buzzsprout.com/699187/9725934-is-there-a-transatlantic-approach-to-china-and-the-indo-pacific.js?container_id=buzzsprout-player-9725934&player=small" type="text/javascript" charset="utf-8"></script>
+<br>
+<!--[**Download a transcript of this episode here**](https://docs.google.com/document/d/1n210GpXZw9L_OXGG_VuMeqNQJ7UkiGUmlS_yrbknByY/export?format=pdf)-->
+
+<hr>
 ## [44 | Good COP? China, Asia and Climate Change](/episode-44)
 
 November 27, 2021
