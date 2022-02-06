@@ -10,6 +10,20 @@ layout: default
   <meta name="twitter:image" content="https://user-images.githubusercontent.com/67763587/97117453-1b73b880-16c1-11eb-8dfb-30e8781bf66c.png" />
 </head>
 
+
+## [46 | China's Politics and Economy as the Winter Olympics Open](/episode-46)
+
+February 5, 2022
+
+Featured Guests: Ling Li, Isabella Weber
+
+The eyes of the world are on China as Beijing hosts the Winter Olympics. A successful Games will be used by leader Xi Jinping to bolster his image and status... [more](/episode-46)
+
+<div id="buzzsprout-player-10015744"></div><script src="https://www.buzzsprout.com/699187/10015744-china-s-politics-and-economy-as-the-winter-olympics-open.js?container_id=buzzsprout-player-10015744&player=small" type="text/javascript" charset="utf-8"></script>
+<br>
+<!-- [**Download a transcript of this episode here**](https://docs.google.com/document/d/1-hxVPIG1zRG_dt1tW9Lg284AMXEj1Bs_-6KVCVMCInc/export?format=pdf) -->
+
+<hr>
 ## [45 | Is There a Transatlantic Approach to China and the Indo-Pacific?](/episode-45)
 
 December 15, 2021
