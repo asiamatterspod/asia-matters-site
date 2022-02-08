@@ -21,7 +21,7 @@ The eyes of the world are on China as Beijing hosts the Winter Olympics. A succe
 
 <div id="buzzsprout-player-10015744"></div><script src="https://www.buzzsprout.com/699187/10015744-china-s-politics-and-economy-as-the-winter-olympics-open.js?container_id=buzzsprout-player-10015744&player=small" type="text/javascript" charset="utf-8"></script>
 <br>
-<!-- [**Download a transcript of this episode here**](https://docs.google.com/document/d/1-hxVPIG1zRG_dt1tW9Lg284AMXEj1Bs_-6KVCVMCInc/export?format=pdf) -->
+[**Download a transcript of this episode here**](https://docs.google.com/document/d/19dkBvvUm8dne8nvQqy0DTbpicRO2JmrYxe1926Frsf0/export?format=pdf)
 
 <hr>
 ## [45 | Is There a Transatlantic Approach to China and the Indo-Pacific?](/episode-45)
