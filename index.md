@@ -11,6 +11,19 @@ layout: default
 </head>
 
 
+## [47 | ASEAN and the European Union - Kindred Spirits or Worlds Apart?](/episode-47)
+
+February 24, 2022
+
+Featured Guests: Eva Pejsova, Huong Le Thu
+
+Welcome to the inaugural episode of CSDS-Asia Matters, in which we continue our mission to bring together policy experts and academics to dissect the factors... [more](/episode-47)
+
+<div id="buzzsprout-player-10135587"></div><script src="https://www.buzzsprout.com/699187/10135587-asean-and-the-european-union-kindred-spirits-or-worlds-apart.js?container_id=buzzsprout-player-10135587&player=small" type="text/javascript" charset="utf-8"></script>
+<br>
+[**Download a transcript of this episode here**](https://brussels-school.be/sites/default/files/CSDS-Asia%20Matters%20Podcast_%20ASEAN_EU%20transcript_0.pdf)
+
+<hr>
 ## [46 | China's Politics and Economy as the Winter Olympics Open](/episode-46)
 
 February 5, 2022
