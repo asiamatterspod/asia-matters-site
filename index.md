@@ -11,6 +11,12 @@ layout: default
 </head>
 
 
+<p><center><b>
+Notice: as of January 1, 2022, this website is no longer being updated. We have transferred our podcast to <a href="https://brussels-school.be/project/csds-asia-matters-podcast">this page</a> on the Brussels School of Governance's website. For more information, please see <a href="https://brussels-school.be/news/research-news/csds-asia-matters-podcast-launches-inaugural-episode">this notice</a>, also from the Brussels School of Governance. Thank you for your continued support of the Asia Matters podcast.
+
+</b></center></p>
+
+
 ## [47 | ASEAN and the European Union - Kindred Spirits or Worlds Apart?](/episode-47)
 
 February 24, 2022
